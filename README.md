@@ -6,4 +6,4 @@
 wget "$(curl -s https://raw.githubusercontent.com/khuza08/snapdragon-clang/main/releases/link.txt)" -O "sdclang19.x.tgz"
 rm -rf clang && mkdir sdclang && tar -xvf sdclang19.x.tgz -C sdclang
  ```
-- khzx
+- thankyou!
