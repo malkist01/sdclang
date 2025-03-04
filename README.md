@@ -4,10 +4,8 @@ This is the release of Snapdragon LLVM ARM C/C++ compiler toolchain version 19.0
 
 The 19.0 release is available for the following platforms:
 
-1. Linux x64 host running Ubuntu 16.04 or later.
-2. Windows x64 host running Windows 10 or later.
-3. Linux ARM64 host running Ubuntu 16.04 or later.
-4. Windows ARM64 host running Windows 10 or later.
+1. Linux x64.
+2. Windows 10 x64.
 
 The Snapdragon LLVM ARM Compiler will generate code for ARM and X86 targets and
 will not generate code for any of the other targets supported by the llvm.org compiler.
