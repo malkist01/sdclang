@@ -1,25 +1,5 @@
 # Snapdragon Clang
 
-This is the release of Snapdragon LLVM ARM C/C++ compiler toolchain version 19.0.  
-
-The 19.0 release is available for the following platforms:
-
-1. Linux x64.
-2. Windows 10 x64.
-
-The Snapdragon LLVM ARM Compiler will generate code for ARM and X86 targets and
-will not generate code for any of the other targets supported by the llvm.org compiler.
-
-The Snapdragon LLVM ARM 19.0 toolchain includes all changes in the llvm.org 19.1 release branch, 
-and proprietary features and optimizations that are not available in the llvm.org 19.1 branch.
-
-The Snapdragon LLVM ARM Compiler uses the integrated assembler for assembling
-and includes a full featured proprietary linker (QC Linker) for linking.
-
-The following link contains all the new features in the llvm.org 19.1 release
-https://discourse.llvm.org/t/llvm-19-1-0-rc4-released/81039. (SDLLVM 19.0 is based on llvm.org 19.1 branch)
-
-
 The following are the major changes specific to SDLLVM 19.0 compared to SDLLVM 18.0.
 
 1. The deprecated legacy binutils in the tools/bin folder have been removed in 19.0 release. We request all customers
