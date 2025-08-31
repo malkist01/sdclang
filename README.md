@@ -3,7 +3,7 @@
 
 # How To Use? 
  ```
-wget "$(curl -s https://raw.githubusercontent.com/khuz8/snapdragon-clang/main/releases/link.txt)" -O "sdclang19.x.tgz"
+wget "$(curl -s https://raw.githubusercontent.com/malkist01/sdclang/main/releases/link.txt)" -O "sdclang19.x.tgz"
 rm -rf clang && mkdir sdclang && tar -xvf sdclang19.x.tgz -C sdclang
  ```
 - thankyou!
